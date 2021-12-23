@@ -2,13 +2,6 @@
 Draw text &amp; create npc spawn hub
 
 -- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
 
 
 
@@ -17,11 +10,4 @@ So, with this script you can draw text at your spawn, or whereever else you want
 
 
 -- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
--- Discord.gg/nsdev / NS100#0001 --
+
